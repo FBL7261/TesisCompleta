@@ -1,0 +1,28 @@
+# Entornos virtuales de Python
+venv/
+.env
+env/
+
+# Dataset
+dataset/
+
+# Archivos de cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+#testing
+test_mongo.py
+#testing_images.py
+
+# Imágenes subidas
+uploaded_images/*

@@ -1,0 +1,11 @@
+tensorflow
+opencv-python
+opencv-contrib-python
+numpy
+scikit-learn
+imutils
+flask
+pymongo
+pillow
+dnspython
+python-dotenv
